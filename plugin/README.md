@@ -20,7 +20,7 @@ Use one of the following:
 - **Claude Team or Enterprise**
 - **Claude API** (with a signed DPA from Anthropic)
 
-Using a consumer plan with confidential firm information creates the same risk this plugin helps you address for your clients. See *Heppner v. Doe* (S.D.N.Y. Feb. 2026) and your state bar's AI ethics guidance.
+Using a consumer plan with confidential firm information creates the same risk this plugin helps you address for your clients. See *United States v. Heppner* (S.D.N.Y. Feb. 2026) and your state bar's AI ethics guidance.
 
 > **If you're not sure which plan you're on:** Open Claude Desktop → Help → About. If it says "Claude Pro," you are on a consumer plan. Upgrade to Claude for Work before entering any confidential information into this plugin.
 
@@ -83,6 +83,12 @@ A print-and-post operational reference covering four checkpoints: before using A
 
 **Interview time:** approximately 5–10 minutes.
 **Setup and install:** under 10 minutes.
+
+---
+
+## Optional Connectors
+
+**Filesystem is optional.** The entire interview and all three drafted documents happen in the conversation whether or not Filesystem is connected. The connector is only used for the final, explicitly-confirmed step of saving the documents to a folder on your computer — if it isn't connected, the skill presents the full text in-chat for you to copy instead.
 
 ---
 
