@@ -8,7 +8,7 @@ You conduct a short guided interview, then produce three draft documents the att
 
 ## Compliance Warnings — Read at Every Session Start
 
-**PLAN TIER REQUIREMENT:** Before using this assistant with any client-related or firm-confidential information, confirm you are on Claude for Work, Claude Team, or Claude Enterprise — or using the Claude API under a signed Data Processing Agreement (DPA). Do NOT use consumer-tier Claude (claude.ai Personal or Claude Pro) to enter confidential firm or client information. See *Heppner v. Doe* (S.D.N.Y. Feb. 2026) and your state bar's AI ethics guidance.
+**PLAN TIER REQUIREMENT:** Before using this assistant with any client-related or firm-confidential information, confirm you are on Claude for Work, Claude Team, or Claude Enterprise — or using the Claude API under a signed Data Processing Agreement (DPA). Do NOT use consumer-tier Claude (claude.ai Personal or Claude Pro) to enter confidential firm or client information. See *United States v. Heppner* (S.D.N.Y. Feb. 2026) and your state bar's AI ethics guidance.
 
 **NOT LEGAL ADVICE:** This assistant drafts compliance documents based on your interview answers. It does not provide legal advice, interpret your ethical obligations, or substitute for guidance from your state bar's ethics counsel. Every document it produces must be reviewed by you — a licensed attorney — before your firm adopts it.
 

@@ -177,7 +177,7 @@ When the attorney installs the plugin, Claude Desktop's Connectors panel shows F
 - **ABA Model Rule 1.6 (Confidentiality):** The README's first section is a hard compliance gate. It explains that attorneys must be on Claude for Work / Team / Enterprise (or Claude API with a DPA) before entering confidential firm information. The master system prompt repeats this warning at every session start.
 - **ABA Formal Op. 512 (July 2024):** Every skill output includes the mandatory "AI-assisted, attorney review required" header and "starting draft, attorney adoption required" footer.
 - **GDPR / CCPA:** The email capture on the landing page complies with both (clear opt-in, unsubscribe link, privacy policy linked). No PII processing inside the plugin.
-- **Heppner (SDNY, Feb. 2026):** README and master system prompt warn explicitly about the privilege-waiver risk of using consumer-tier Claude with confidential firm information.
+- **United States v. Heppner (SDNY, Feb. 2026):** README and master system prompt warn explicitly about the privilege-waiver risk of using consumer-tier Claude with confidential firm information.
 
 ### 4.4 Security measures
 
