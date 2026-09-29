@@ -2,6 +2,11 @@
 name: ai-use-policy
 description: Run a guided interview about your firm's AI tools, data practices, client types, and jurisdiction, then draft three ready-to-adopt documents: an internal AI-use policy, a client-facing AI-disclosure clause for engagement letters, and a one-page safe AI checklist. Also flags any consumer-grade tools currently touching client data and suggests safer alternatives. Use when your firm has no written AI policy, or when an existing policy needs a refresh.
 argument-hint: "[optional: path to save the generated documents]"
+last_verified: 2026-09-29
+freshness_window: 6 months
+freshness_category: regulatory
+verified_against:
+  - https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-opinions/aba-formal-opinion-512.pdf
 ---
 
 # /ai-use-policy — AI Use Policy & Client-Disclosure Generator

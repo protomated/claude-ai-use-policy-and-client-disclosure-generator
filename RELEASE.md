@@ -1,6 +1,6 @@
-# AI Use Policy Generator v1.0.0
+# AI Use Policy Generator v1.0.1
 
-Initial release.
+Adds Legal Builder Hub freshness frontmatter (`freshness_category: regulatory`, 6-month window) with `verified_against` citing ABA Formal Opinion 512 — the one specific, non-placeholder legal citation this skill makes; all state-specific citations are deliberately left as attorney-filled placeholders. No functional changes.
 
 ## What's included
 
