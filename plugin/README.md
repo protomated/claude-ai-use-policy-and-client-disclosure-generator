@@ -4,6 +4,8 @@ A Claude Desktop plugin that conducts a short guided interview and drafts the th
 
 **Distributed by [Protomated](https://protomated.com) as a free download.**
 
+**Works with:** Claude Desktop and ChatGPT Desktop.
+
 ---
 
 ## ⚠️ Required: Read This Before You Install
@@ -40,9 +42,9 @@ The plugin will not write any file to your computer without asking for your expl
 
 1. Download `ai-use-policy-generator.zip` from the [Releases page](https://github.com/protomated/claude-ai-use-policy-generator/releases).
 2. Double-click the `.zip` file, or drag it into Claude Desktop's **Extensions** panel.
-3. Claude Desktop will install the plugin and prompt you to connect the required connector.
+3. Claude Desktop will install the plugin.
 
-### Step 2 — Connect Filesystem (your firm policies folder)
+### Step 2 — (Optional) Connect Filesystem (your firm policies folder)
 
 1. Go to **Claude Desktop → Settings → Connectors**.
 2. Find **Filesystem** and click **Connect**.
@@ -56,6 +58,10 @@ The plugin will not write any file to your computer without asking for your expl
 Open a new Claude Desktop chat. Type `/skills`. You should see `/ai-use-policy` listed. Run `/ai-use-policy` to start the guided interview.
 
 See [CONNECTORS.md](CONNECTORS.md) for troubleshooting.
+
+### Using this in ChatGPT Desktop
+
+This skill also works in ChatGPT Desktop. Install the plugin the same way (Settings → Apps & Connectors → Plugins → Upload plugin archive), then start a new chat — the interview runs the same way, and you can download each generated document from the chat directly since there's no Filesystem connector on that platform.
 
 ---
 
@@ -88,7 +94,7 @@ A print-and-post operational reference covering four checkpoints: before using A
 
 ## Optional Connectors
 
-**Filesystem is optional.** The entire interview and all three drafted documents happen in the conversation whether or not Filesystem is connected. The connector is only used for the final, explicitly-confirmed step of saving the documents to a folder on your computer — if it isn't connected, the skill presents the full text in-chat for you to copy instead.
+**Filesystem is optional.** The entire interview and all three drafted documents happen in the conversation whether or not Filesystem is connected. The connector is only used for the final, explicitly-confirmed step of saving the documents to a folder on your computer — if it isn't connected, the skill presents the full text in-chat for you to copy instead. This is also why the skill works the same way in ChatGPT Desktop, which has no Filesystem connector at all.
 
 ---
 

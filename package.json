@@ -1,6 +1,6 @@
 {
   "name": "ai-use-policy-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI Use Policy Generator — Claude Desktop plugin that drafts an internal AI-use policy, client-facing disclosure clause, and safe AI checklist for solo law firms",
   "private": true,
   "scripts": {

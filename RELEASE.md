@@ -1,6 +1,6 @@
-# AI Use Policy Generator v1.0.1
+# AI Use Policy Generator
 
-Adds Legal Builder Hub freshness frontmatter (`freshness_category: regulatory`, 6-month window) with `verified_against` citing ABA Formal Opinion 512 — the one specific, non-placeholder legal citation this skill makes; all state-specific citations are deliberately left as attorney-filled placeholders. No functional changes.
+Fixed the ChatGPT Desktop upload failure: removed the leftover `.mcp.json` declaring a blank Filesystem connector — this skill never actually needed one, the interview and all three documents work entirely in-chat. Confirmed working in ChatGPT Desktop. Removed the hardcoded "(Claude Desktop)" wording from the skill's own output footer, and documented ChatGPT Desktop installation in the README and CONNECTORS.md.
 
 ## What's included
 

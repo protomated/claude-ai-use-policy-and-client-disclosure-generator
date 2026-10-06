@@ -487,4 +487,4 @@ Save these files? [Awaiting your confirmation and folder path]
 
 ---
 
-— Prepared with Protomated AI Use Policy Generator (Claude Desktop) | Attorney review and formal adoption required before use | Not legal advice
+— Prepared with Protomated AI Use Policy Generator | Attorney review and formal adoption required before use | Not legal advice

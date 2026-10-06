@@ -37,3 +37,7 @@ The target folder may be outside your configured allow-list. Go to Settings → 
 
 **Plugin can't find the Filesystem connector:**
 Make sure you are on a qualifying Claude plan (Claude for Work, Team, or Enterprise). The Filesystem connector is not available on consumer plans. See README.md for plan requirements.
+
+## Using this in ChatGPT Desktop
+
+This skill also works in ChatGPT Desktop. There's no Filesystem connector there — the interview and all three documents happen in the conversation, and you download each document from the chat directly instead of saving to a connected folder.
